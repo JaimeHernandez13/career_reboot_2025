@@ -1,1 +1,1 @@
-This folder contains notebooks with Python exercises focusing on many topics. Each notebook has the same structure having 5 exercises of basic, intermediate and avanced level.
+This folder contains Jupyter notebooks with Python exercises covering a range of topics. Each notebook follows the same structure, with five exercises at basic, intermediate and avanced levels.
